@@ -51,6 +51,10 @@ img {
     padding: 0 30px;
 }
 
+.navbar.top {
+    background: transparent;
+}
+
 .navbar ul {
     display: flex;
 }
